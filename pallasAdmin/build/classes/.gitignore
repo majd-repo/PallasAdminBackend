@@ -1,0 +1,13 @@
+/META-INF/
+/WebSockets/
+/account-activation.tpl
+/account-created.tpl
+/config.properties
+/coordinator-advise.tpl
+/httpObjects/
+/persistence/
+/rest/
+/results/
+/security/
+/services/
+/util/
